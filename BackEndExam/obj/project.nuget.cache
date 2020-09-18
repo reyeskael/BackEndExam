@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iMWKIzZpt7IFvTuwYsRM6VanJL1uNRGgI7Fjxc5HHyy0csNKvhrXd0Pivi7KdAzfK+AGtyB1oFt8ZjgAE+3y3Q==",
+  "dgSpecHash": "3zEIJjVKSy6zimKWRKmkOdiI2mXPt09S8G+bl5ZeGLHx3oWIFWwq/6d0MZEK9/wDvoO7XpV/s+GGUm2MnInqmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kael\\source\\repos\\BackEndExam\\BackEndExam\\BackEndExam.csproj",
+  "projectFilePath": "C:\\Users\\Kael\\Documents\\GitHub\\BackEndExam\\BackEndExam\\BackEndExam.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kael\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Kael\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

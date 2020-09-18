@@ -5925,11 +5925,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kael\\source\\repos\\BackEndExam\\BackEndExam\\BackEndExam.csproj",
+      "projectUniqueName": "C:\\Users\\Kael\\Documents\\GitHub\\BackEndExam\\BackEndExam\\BackEndExam.csproj",
       "projectName": "BackEndExam",
-      "projectPath": "C:\\Users\\Kael\\source\\repos\\BackEndExam\\BackEndExam\\BackEndExam.csproj",
+      "projectPath": "C:\\Users\\Kael\\Documents\\GitHub\\BackEndExam\\BackEndExam\\BackEndExam.csproj",
       "packagesPath": "C:\\Users\\Kael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kael\\source\\repos\\BackEndExam\\BackEndExam\\obj\\",
+      "outputPath": "C:\\Users\\Kael\\Documents\\GitHub\\BackEndExam\\BackEndExam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
