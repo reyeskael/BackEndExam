@@ -1,0 +1,14 @@
+1. get-default
+	- endpoint = https://localhost:44396/api/information
+2. get-asc
+	- endpoint = https://localhost:44396/api/information/asc
+3. get-desc
+	- endpoint = https://localhost:44396/api/information/desc
+4. post
+	- endpoint = https://localhost:44396/api/information
+	- request body = { "language": "PHP", "skillrate": 2, "remarks": "I have experience in Laravel" }
+5. put
+	- endpoint = https://localhost:44396/api/information/{id}
+	- request body = { "language": "PHP", "skillrate": 2, "remarks": "I have experience in Laravel" }
+6. delete
+	- endpoint = https://localhost:44396/api/information/{id}
